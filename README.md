@@ -18,6 +18,10 @@ Enabling checkbox will:
 - reconnect Image Sequence Texture outgoing links to the Color Mix nodes outputs 
 - therefore Image Sequence Texture nodes now are replaced with the newly created single Image Texture nodes with appropriate frames
 - While checkbox is enabled every time frame changes add-on will load appropriate frame Image to the Image Texture node
+- Images that are not used by add-on anymore are being immediately cleared every time frame changes or on add-on disabling
+Disabling checkbox will:
+- Remove all nodes previously created by add-on and relink Image Sequence nodes outputs back to where they were linked to.
+- Remove all loaded images which are not used anymore (files on disc remain untouched).
 # Warnings
 As this is a kind of hack out of Blender render systems, it may randomly produce crashes and errors.
 If you caught some issues please let me know here: https://github.com/sorecords/image_sequence_updater/issues.
