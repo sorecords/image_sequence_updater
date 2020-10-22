@@ -25,5 +25,5 @@ Disabling checkbox will:
 - Remove from the project file all images previously loaded by add-on if they are not used in the project anymore (files on disc remain untouched anyway).
 # Warnings
 As this is a kind of hack out of Blender render systems, it may randomly produce crashes and errors.
-If you caught some issues please let me know here: https://github.com/sorecords/image_sequence_updater/issues.
+If you caught some issues please write here: https://github.com/sorecords/image_sequence_updater/issues.
 Error log is much appreciated. You can get it from the Blender Toggle System Console on Windows and with launching Blender from Terminal on Mac.
