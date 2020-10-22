@@ -5,7 +5,7 @@ Replaces Image Sequence Texture nodes with a Single Image Texture nodes and load
 - don't unpack it!
 - Open Blender. From top menu go to -> Edit -> Preferences -> Add-ons -> Install
 - Find downloaded ZIP file and click "Install Add-on" button
-- After add-on installed check enabling checkbox near its name
+- After add-on is installed check enabling checkbox near its name
 # Location
 - Shader Editor > UI (N-Panel) > Image Sequence Updater
 # Use
