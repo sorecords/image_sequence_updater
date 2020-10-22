@@ -2,11 +2,8 @@
 Replaces Image Sequence Texture nodes with a Single Image Texture nodes and loads appropriate frame image files to them on every frame change.
 
 # WARNINGS
-Doesn't work with Motion Blur.
-As this is a kind of hack around Blender render systems, it may randomly produce crashes and errors.
-Most of them can not be fixed (like internal Blender C-errors) but some can be.
-If you caught any issues please write here: https://github.com/sorecords/image_sequence_updater/issues.
-Error log is much appreciated. You can get it from the Blender Toggle System Console on Windows and with launching Blender from Terminal on Mac.
+As this is a kind of hack around Blender render systems, it may randomly produce crashes and errors. Most of them can not be fixed (like internal Blender C-errors) but some can be.
+If you caught any issues please write here: https://github.com/sorecords/image_sequence_updater/issues. Error log is much appreciated. You can get it from the Blender Toggle System Console on Windows and with launching Blender from Terminal on Mac.
 
 # INSTALL
 - Download ZIP file from the https://gumroad.com/products/MVekg/
