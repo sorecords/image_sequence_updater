@@ -1,5 +1,5 @@
 # Image Sequence Updater for Blender 2.8+ add-on
-Replaces Image Sequence Texture nodes with a Single Image Texture nodes and loads appropriate frame image file on every frame change.
+Replaces Image Sequence Texture nodes with a Single Image Texture nodes and loads appropriate frame image files to them on every frame change.
 # Install
 - Download ZIP file from the https://gumroad.com/products/MVekg/
 - don't unpack it!
