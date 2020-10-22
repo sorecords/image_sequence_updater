@@ -22,7 +22,7 @@ Enabling checkbox will:
 
 Disabling checkbox will:
 - Remove all nodes previously created by add-on and relink Image Sequence nodes outputs back to where they were linked to.
-- Remove all loaded images which are not used anymore (files on disc remain untouched).
+- Remove from the project file all images previously loaded by add-on if they are not used in the project anymore (files on disc remain untouched anyway).
 # Warnings
 As this is a kind of hack out of Blender render systems, it may randomly produce crashes and errors.
 If you caught some issues please let me know here: https://github.com/sorecords/image_sequence_updater/issues.
